@@ -2,7 +2,7 @@
 Due to potential problems of obtaining human neuronal data, can animal training be used for the purpose of training the classifiers of human neurons?
 
 ## Project overview
-This is a project done in the first year course "Data Mining and Big Data Analytics" at the Department of Network and Data Science at Central European University, 
+This is a project done in the first year course "Data Mining and Big Data Analytics" at the Department of Network and Data Science at Central European University.
 
 Sections:
 1. Introduction and data cleaning
