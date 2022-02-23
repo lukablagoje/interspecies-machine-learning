@@ -2,6 +2,9 @@
 Due to potential problems of obtaining human neuronal data, can animal training be used for the purpose of training the classifiers of human neurons?
 
 # Project overview
+This is a project done in the first year course "Data Mining and Big Data Analytics" at the Department of Network and Data Science at Central European University, 
+
+Sections:
 1. Introduction and data cleaning
 2. Data exploration and PCA
 3. Assesing validity of classes with clustering 
@@ -18,5 +21,5 @@ If you are interested in data:
 - There are 4 dataframe files: "human_neurons", "monkey_neurons", "mouse_neurons", "rat_neurons" 
 
 
-This is a project done in the first year course at the Department of Network and Data Science at Central European University.
+
 Data source: http://neuromorpho.org/
