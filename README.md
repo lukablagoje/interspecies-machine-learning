@@ -11,15 +11,8 @@ Sections:
 4. Training classifiers on animal data
 5. Evaluating the performance of classifiers on human data
 ## Files
-If you are interested in the overall idea:
-- There is a pdf presentation that explains the overall ideas
-
-If you are interested in code:
-- There is a detailed Jupyter notebook with the commented code
-
-If you are interested in data:
-- There are 4 dataframe files: "human_neurons", "monkey_neurons", "mouse_neurons", "rat_neurons" 
-
-
+- Pdf presentation that explains the overall ideas
+- Detailed Jupyter notebook with the commented code
+- CSV files: "human_neurons", "monkey_neurons", "mouse_neurons", "rat_neurons" 
 
 Data source: http://neuromorpho.org/
