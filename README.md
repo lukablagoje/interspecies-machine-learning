@@ -3,7 +3,7 @@ Due to potential problems of obtaining human neuronal data, can animal training 
 
 # Project overview
 1. Introduction and data cleaning
-2. Data Exploration and PCA
+2. Data exploration and PCA
 3. Assesing validity of classes with clustering 
 4. Training classifiers on animal data
 5. Evaluating the performance of classifiers on human data
