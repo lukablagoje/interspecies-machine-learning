@@ -1,9 +1,6 @@
 # Interspecies machine learning
 Due to potential problems of obtaining human neuronal data, can animal training be used for the purpose of training the classifiers of human neurons?
 
-![image](https://user-images.githubusercontent.com/52599010/155604304-f62291f2-96d9-427a-9702-3466f70d8c8d.png)
-
-
 ## Project overview
 This is a project done in the first year course "Data Mining and Big Data Analytics" at the Department of Network and Data Science at Central European University.
 
